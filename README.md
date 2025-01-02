@@ -2,8 +2,13 @@
   <img src="https://github.com/prathapprr/prathapprr/blob/main/github-header-image.png" alt="Welcome to My GitHub Profile" />
 </p>
 
+<h1 align="center">👋 Hi, I'm Prathap!</h1>  
 
-# 👋 Hi, I'm Prathap!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0078D7&center=true&width=500&lines=Engineering+Student+%7C+AIML+Specialist;Passionate+about+AI+%26+ML;Building+Impactful+Solutions" alt="Typing Animation">
+</p>
+
+---
 
 🎓 **Engineering Student** | **Artificial Intelligence & Machine Learning (AIML)**  
 🌍 **Bengaluru, India**  
@@ -39,8 +44,6 @@ I’m a 3rd-year engineering student passionate about AI, Machine Learning, and 
 
 [🌌 **Orrery Web App**](https://siddarammanur656.github.io/neon-orrery/)  
 
- 
-
 ---
 
 ## 📬 Connect with Me  
@@ -52,7 +55,7 @@ I’m a 3rd-year engineering student passionate about AI, Machine Learning, and 
   <a href="https://github.com/prathapprr">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="[https://linkedin.com/in/prathap-profile](https://www.linkedin.com/in/prathap-r-2192442a3/)">
+  <a href="https://www.linkedin.com/in/prathap-r-2192442a3/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -60,7 +63,7 @@ I’m a 3rd-year engineering student passionate about AI, Machine Learning, and 
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x50.png?text=Let%27s+Build+Something+Amazing+Together!" alt="Footer Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=34D058&center=true&width=1000&lines=Let's+Build+Something+Amazing+Together!" alt="Footer Typing Animation" />
 </p>
 
-⭐️ *"Innovating for a smarter future!"*  
+⭐️ *"Innovating for a smarter future!"*
