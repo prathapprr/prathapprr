@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
+  <img src="https://github.com/prathapprr/prathapprr/blob/main/github-header-image.png" alt="Welcome to My GitHub Profile" />
 </p>
+
 
 # 👋 Hi, I'm Prathap!  
 
@@ -37,23 +38,21 @@ I’m a 3rd-year engineering student passionate about AI, Machine Learning, and 
 ## 🚀 Featured Project  
 
 [🌌 **Orrery Web App**](https://siddarammanur656.github.io/neon-orrery/)  
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Orrery+Web+App+Screenshot" alt="Project Screenshot" />
-</p>  
-**NASA Space Apps 2024**: A web app visualizing Near-Earth Objects.  
+
+ 
 
 ---
 
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:prathap.email@example.com">
+  <a href="mailto:prathapy150@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/prathapprr">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/prathap-profile">
+  <a href="[https://linkedin.com/in/prathap-profile](https://www.linkedin.com/in/prathap-r-2192442a3/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
