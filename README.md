@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=0078D7&center=true&width=500&lines=Engineering+Student+%7C+AIML+Specialist;Passionate+about+AI+%26+ML;Building+Impactful+Solutions" alt="Typing Animation">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathapprr&style=flat-square&color=brightgreen" alt="Profile Views" />
+</p>
+
 ---
 
 🎓 **Engineering Student** | **Artificial Intelligence & Machine Learning (AIML)**  
