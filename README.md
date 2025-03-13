@@ -17,7 +17,7 @@
 🎓 **Engineering Student** | **Artificial Intelligence & Machine Learning (AIML)**  
 🌍 **Bengaluru, India**  
 
-I’m a 3rd-year engineering student passionate about AI, Machine Learning, and software development. I love turning innovative ideas into impactful solutions.
+I'm a third-year engineering student with a strong passion for AI, Machine Learning, and software development. I enjoy transforming innovative ideas into meaningful and impactful solutions.
 
 ---
 
